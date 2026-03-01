@@ -9,7 +9,7 @@ import leetcode from "./../../../assets/leetcode.svg";
 import leetcode1 from "./../../../assets/leetcode1.svg";
 import linkdin from "./../../../assets/linkdin.svg";
 import linkdin1 from "./../../../assets/linkdin1.svg";
-import photo2 from "./../../../assets/photo3.png";
+import photo2 from "./../../../assets/Luki.png";
 
 const Hero = () => {
   const [experience, setExperience] = useState(0);
